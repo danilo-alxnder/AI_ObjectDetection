@@ -1,6 +1,6 @@
 # AI ObjectDetection 🦾
-In this thrilling project, the short overview of Articial Intelligence is presented.
-Furthermore, those keen on the cost analysis for [Luminar AI](https://skylum.com/luminar), The first image editor fully powered by artificial intelligence, are invited to check my `pdf` file in this report.
+In this thrilling project, the short overview of an Articial Intelligence case is presented.
+Furthermore, those keen on the cost analysis for [Luminar AI](https://skylum.com/luminar), the first image editor fully powered by artificial intelligence, are invited to check my `pdf` file in this report.
 
 ## Here some snaptshots
 
